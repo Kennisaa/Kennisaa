@@ -2,9 +2,7 @@
   <b>Kenneth Callejas</b>
 </h1>
 
-Heya! I'm Kenneth Callejas, a student currently living in San Salvador, El Salvador. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Heya! I'm Kenneth Callejas, a student currently living in San Salvador, El Salvador. I'm learning programming through small projects  on the side.
 
 <br>
 
